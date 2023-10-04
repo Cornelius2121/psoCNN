@@ -16,10 +16,11 @@ if __name__ == '__main__':
     # dataset = "mnist-rotated-with-background"
     # dataset = "rectangles"
     # dataset = "rectangles-images"
-    dataset = "convex"
+    # dataset = "convex"
     # dataset = "fashion-mnist"
     # dataset = "mnist-random-background"
     # dataset = "mnist-background-images"
+    dataset = "malnet-tiny"
     
     number_runs = 10
     number_iterations = 10
